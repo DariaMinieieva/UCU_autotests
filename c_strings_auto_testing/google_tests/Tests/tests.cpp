@@ -33,7 +33,7 @@
 
 
 //!!!!!!!!!!uncomment if you want to test additional task!!!!!!!!!!
-// #define EXTRA_PLUS_MULT
+#define EXTRA_PLUS_MULT
 
 using namespace std::string_literals;
 
